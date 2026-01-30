@@ -6,7 +6,7 @@
 
 ###
 
-Hi I'm fyrak1s! Steward and lead developer of...
+Hi, I'm fyrak1s! Steward and lead developer of...
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
 
