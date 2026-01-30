@@ -10,15 +10,14 @@ Hi, I'm fyrak1s! Steward and lead developer of...
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
 
-*— a Linux distribution that turns the FHS on its pɐǝɥ 🙃*
-
-I'm working on GoboLinux to present an alternative & unique perspective on the linux ecosystem. GoboLinux strives to become a distro, that will be handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
+— a Linux distribution that turns the FHS on its pɐǝɥ 🙃
 
 <br>
-Other than that I love graphics design, retro hardware, 3D printing... and creating websites too! :D
+GoboLinux is an alternative & unique perspective on the linux ecosystem. I strive for it to become a distro, that is handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
+
 <br>
 <br>
-Support me on ko-fi if you like what I am doing^^
+If you would like to support my work, you have the opportunity to do so via ko-fi:
 
 ###
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fyrak1s)
