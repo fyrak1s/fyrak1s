@@ -13,7 +13,7 @@ Hi, I'm fyrak1s! Steward and lead developer of...
 — a Linux distribution that turns the FHS on its pɐǝɥ 🙃
 
 <br>
-GoboLinux presents an alternative / unique perspective on the linux ecosystem. I actively strive for it to become a distro, that is handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
+GoboLinux presents an alternative / unique perspective on the linux ecosystem. I actively strive for it to become a distro that is handy, comfy, community & user oriented, innovative, novel and - most of all - fun!! :)
 
 <br>
 <br>
