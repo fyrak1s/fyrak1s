@@ -5,7 +5,7 @@
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
 
-***... the distro that superseded the FHS (in 2002)!***
+***... the distro that superseded the FHS (in 2002) !***
 </div><br>
 
 After working many years on the project, in 2025, I was honored to take over stewardship of GoboLinux from its founder, *Hisham Muhammad*.
