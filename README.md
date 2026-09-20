@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, my name is *fyrak1s*!
+# Hi, I'm *fyrak1s*!
 *Steward and lead developer of...*
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
