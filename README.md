@@ -13,8 +13,8 @@ After working many years on the project, in 2025, I was honored to take over ste
 GoboLinux is GREAT, because it brings a fresh, unconventional perspective to the Linux ecosystem. It is not bound by the shackles of the FHS ⛓️.
 However a lot of dust has fallen onto GoboLinux over the last 25 years...
 
-**My goal is to bring it back in shape!** To shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun!
-Let it evolve into a viable option, on par, if not exceeding any other mainstream distro out there.
+**My goal is to bring it back in shape.** To shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun!
+Let it evolve into a viable option, on par, if not exceeding any other mainstream distro out there!!
 
 <br>
 
