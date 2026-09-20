@@ -14,7 +14,7 @@ GoboLinux is GREAT, because it brings a fresh, unconventional perspective to the
 However, originating in year 2002, a lot of dust has fallen onto GoboLinux over the years...
 
 My goal is to *bring it back to life*! To shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun!
-It shall become a viable option, on par, if not exceedingh any other distro out there.
+It shall become a viable option, on par, if not exceeding any other casual distro out there.
 
 <br>
 
