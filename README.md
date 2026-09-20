@@ -1,22 +1,40 @@
-## Hi, my name is *fyrak1s*!
-*I'm Steward and lead developer of...*
+<div align="center">
+
+# Hi, my name is *fyrak1s*!
+*Steward and lead developer of...*
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
 
-*... the distro that superseded the FHS!*
+***... the distro that superseded the FHS!***
+</div><br>
+
+After working many years on the project, in 2025, I was honored to take over stewardship of GoboLinux from its founder, *Hisham Muhammad*.
+
+GoboLinux is GREAT, because it brings a fresh, unconventional perspective to the Linux ecosystem. It is not bound by the shackles of the FHS.
+However, originating in year 2002, a lot of dust has fallen onto GoboLinux over the years...
+
+My goal is to *bring it back to life*! To shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun!
+It shall become a viable option, on par, if not exceedingh any other distro out there.
 
 <br>
-GoboLinux brings a fresh, unconventional perspective to the Linux ecosystem. My goal is to shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun! ;)
 
-<br><br>
+***Gobo's official hompage:*** https://gobolinux.org
 
-***If you really like what I do — consider funding my coffee via ko-fi!*** ☕✨
+***My personal blog:*** https://fyrak1s.net (coming soon™)
+
+##
+<div align="center">
+
+### ***If you really like what I'm doing — consider funding my coffee via ko-fi!*** ☕✨
 <details>
   <summary>Disclaimer</summary>
-  Actually I don't drink any coffee, but you get the idea haha :)  
+  
+  Actually, I'd prefer an earl grey with milk. But you get the idea haha 👨‍💻 :)  
 </details>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fyrak1s)
+</div>
+
 ###
 
 
