@@ -14,7 +14,7 @@ GoboLinux is GREAT, because it brings a fresh, unconventional perspective to the
 However a lot of dust has fallen onto GoboLinux over the last 25 years...
 
 **My goal is to bring it back in shape!** To shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun!
-It shall become a viable option, on par, if not exceeding any other mainstream distro out there.
+Let it evolve into a viable option, on par, if not exceeding any other mainstream distro out there.
 
 <br>
 
