@@ -26,13 +26,12 @@ It shall become a viable option, on par, if not exceeding any other casual distr
 <div align="center">
 
 ### ***If you really like what I'm doing — consider funding my coffee via ko-fi!*** ☕✨
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fyrak1s)
 <details>
   <summary>Disclaimer</summary>
   
-  Actually, I'd prefer an earl grey with milk. But you get the idea haha 👨‍💻 :)  
+  ... actually I prefer earl grey with milk! But you get the idea haha 👨‍💻🙃
 </details>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fyrak1s)
 </div>
 
 ###
