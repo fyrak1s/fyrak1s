@@ -8,7 +8,7 @@
 ***... the distro that superseded the FHS (in 2002) !***
 </div><br>
 
-After working many years on the project, in 2025, I was honored to take over stewardship of GoboLinux from its founder, *Hisham Muhammad*.
+After casually working many years on the project, in 2025, I was honored to take over stewardship of GoboLinux from its founder, *Hisham Muhammad*.
 
 GoboLinux is GREAT, because it brings a fresh, unconventional perspective to the Linux ecosystem. It is not bound by the shackles of the FHS ⛓️.
 However a lot of dust has fallen onto GoboLinux over the last 25 years...
