@@ -1,26 +1,23 @@
-# Welcome to my profile! 👋
-
-###
-
-## About me
-
-###
-
-Hi, I'm fyrak1s! Steward and lead developer of...
+## Hi, my name is *fyrak1s*!
+*I'm Steward and lead developer of...*
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
 
-*— a Linux distribution that turns the FHS on its pɐǝɥ* 🙃
+*... the distro that superseded the FHS!*
 
 <br>
-GoboLinux presents an alternative & unique perspective on the linux ecosystem. I strive for it to become a distro that is handy, comfy, community / user oriented, innovative, novel and - most of all - fun!! :)
+GoboLinux brings a fresh, unconventional perspective to the Linux ecosystem. My goal is to shape it into a distro that’s practical, comfortable, community-driven, innovative — and above all, fun! ;)
 
-<br>
-<br>
-If you'd like to support my work, you have the opportunity to do so via ko-fi:
+<br><br>
 
-###
+***If you really like what I do — consider funding my coffee via ko-fi!*** ☕✨
+<details>
+  <summary>Disclaimer</summary>
+  Actually I don't drink any coffee, but you get the idea haha :)  
+</details>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fyrak1s)
+###
 
 
 ###
