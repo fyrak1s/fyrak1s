@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm *fyrak1s*!
-*Steward and lead developer of...*
+*The steward and lead developer of...*
 
 [![gobo](https://gobolinux.org/images/gobolinux_frontpage.png)](https://gobolinux.org/)
 
