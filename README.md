@@ -30,7 +30,7 @@ Let it evolve into a viable option, on par, if not exceeding any other mainstrea
 <details>
   <summary>Disclaimer</summary>
   
-  ... actually I prefer earl grey with milk! But you get the idea haha 👨‍💻🙃
+  ... actually I totally prefer earl grey with milk! But you get the idea haha 👨‍💻🙃
 </details>
 </div>
 
